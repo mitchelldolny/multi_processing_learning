@@ -14,3 +14,7 @@ Computer Specs for whoever is interested:
 Apple M3 Pro chip, with 36GB of unified memory
 
 Hope this helps!
+
+Futher note:
+- Attempted just threading which took way longer
+- Combined both threading and multiprocessing and it took ~32 vs ~26 seconds
